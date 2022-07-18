@@ -19,10 +19,11 @@
   },
   "author": "Evan Shortiss",
   "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
     "lodash.invert": "^4.1.1",
-    "mocha": "^2.4.5",
+    "mocha": "^10.0.0",
     "proxyquire": "^1.7.4",
     "safejson": "^1.0.1",
     "sinon": "^1.17.3"
